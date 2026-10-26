@@ -23,6 +23,8 @@ Sous Linux : ports série `/dev/ttyUSB0` (ajouter l’utilisateur au groupe `dia
 ## Principales fonctions
 
 - Décodage et émission SSTV (Robot, Martin, Scottie, PD…), FSK-ID, galeries, templates et écriture « affiche »
+- **SSTV numérique DRM** compatible EasyPal / QSSTV (Atelier DRM) : réception et émission, modes A / B / E,
+  QAM 4 / 16 / 64, Reed-Solomon RS1 à RS4, waterfall DRM et constellation
 - Fréquences SSTV de chaque bande en un clic (fréquence et mode du poste), ISS SSTV sur 437,550 MHz
 - Suivi des satellites : globe 3D (image NASA Blue Marble), passages, Doppler automatique, passages armés,
   enregistrement audio des passages, notifications bureau / Discord / Telegram
