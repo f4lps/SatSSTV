@@ -1,7 +1,7 @@
 # SatSSTV
 
 Station satellite et SSTV pour Windows et Linux, par **F4LPS** — réception et émission SSTV, suivi des satellites
-(globe 3D, passages, correction Doppler), pilotage CAT du poste, images Meteor-M, logs et Tracker F4LPS.
+(globe 3D, passages, correction Doppler), pilotage CAT du poste (ou sans CAT : VOX / manuel), images Meteor-M, logs et Tracker F4LPS.
 
 ## Télécharger
 
