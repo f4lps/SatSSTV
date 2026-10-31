@@ -1,6 +1,6 @@
 # SatSSTV
 
-Station satellite et SSTV pour Windows et Linux, par **F4LPS** — réception et émission SSTV, suivi des satellites
+Station satellite et SSTV pour Windows, Linux et Mac, par **F4LPS** — réception et émission SSTV, suivi des satellites
 (globe 3D, passages, correction Doppler), pilotage CAT du poste (ou sans CAT : VOX / manuel), images Meteor-M, logs et Tracker F4LPS.
 
 ## Télécharger
@@ -21,6 +21,13 @@ SatSSTV signale lui-même les nouvelles versions par une bulle au démarrage.
 
 Sous Linux : ports série `/dev/ttyUSB0` (ajouter l’utilisateur au groupe `dialout`), CAT direct, Hamlib ou FLRig
 (OmniRig est réservé à Windows), notifications par `notify-send`.
+
+### Mac (macOS 11 ou plus récent, Mac Apple et Intel)
+
+- `SatSSTV-x.y.z-macOS.dmg` : glisser SatSSTV dans **Applications**. L’application n’est pas signée par Apple :
+  la [page Mac](https://github.com/f4lps/SatSSTV-Mac#installer) explique la première ouverture.
+
+Le Tracker F4LPS n’est pas inclus sur Mac, et OmniRig n’y existe pas (CAT direct, Hamlib ou FLRig).
 
 ## Principales fonctions
 
