@@ -7,6 +7,8 @@ Station satellite et SSTV pour Windows et Linux, par **F4LPS** — réception et
 
 ➡️ **[Dernière version](https://github.com/F4LPS/SatSSTV/releases/latest)** : `SatSSTV-Setup-x.y.z.exe`
 
+📖 **[Notice en français (PDF)](https://github.com/f4lps/SatSSTV/raw/main/Notice-SatSSTV.pdf)** : installation, réglages, SSTV, DRM, satellites et dépannage.
+
 L’installateur ne demande pas de droits administrateur (installation dans `%LOCALAPPDATA%\Programs\SatSSTV`).
 Il installe SatSSTV et le **Tracker F4LPS** (carte commune avec MultiDigi et CW Terminal).
 Vos profils, images et enregistrements (`%LOCALAPPDATA%\SatSSTV`) sont conservés lors d’une mise à jour ou d’une désinstallation.
