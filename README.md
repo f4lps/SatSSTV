@@ -9,6 +9,8 @@ Station satellite et SSTV pour Windows, Linux et Mac, par **F4LPS** — récepti
 
 📖 **[Notice en français (PDF)](https://github.com/f4lps/SatSSTV/raw/main/Notice-SatSSTV.pdf)** : installation, réglages, SSTV, DRM, satellites et dépannage.
 
+📖 **[Manual in English (PDF)](https://github.com/f4lps/SatSSTV/raw/main/Manual-SatSSTV-en.pdf)**: installing, settings, SSTV, KG-STV, DRM, satellites and troubleshooting.
+
 🌐 **[Tuto : créer un serveur FTP pour le DRM hybride (PDF)](https://github.com/f4lps/SatSSTV/raw/main/Tuto-Serveur-FTP-Hybride.pdf)** : gratuit, avec FileZilla Server et une Livebox.
 
 L’installateur ne demande pas de droits administrateur (installation dans `%LOCALAPPDATA%\Programs\SatSSTV`).
